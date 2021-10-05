@@ -6,7 +6,7 @@ echo today
 
 msg="Hello World How Are You Today!"
 echo $msg
-
+echo "Made a change"
 echo what is your name?
 read userInput
 echo "Hello" $userInput,  "WELCOME TO PROGRAMMING!!"
