@@ -1,7 +1,7 @@
 S#This is a comment to add info to your code
 #echo comment
 echo Hello #<-This is a echo to diplay hello
-echo World
+echo World today
 echo today
 
 msg="Hello World How Are You Today!"
