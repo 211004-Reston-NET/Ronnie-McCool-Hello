@@ -6,7 +6,7 @@ namespace FirstNameLastName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What your name");
+            Console.WriteLine("Whats your name enter here");
             string name=Console.ReadLine();
             System.Console.WriteLine("Your name is: "+name);
         }
