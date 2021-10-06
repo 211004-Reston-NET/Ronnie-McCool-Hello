@@ -1,6 +1,6 @@
 ﻿using System;
 //This is a comment
-/*
+/*dotnet run
 Comment 
 MultiLines
 use PascalCae naming convention AllWordsStartWithCapitals
@@ -26,6 +26,10 @@ namespace HelloWorld
         
             house.Owner="McCool";
             System.Console.WriteLine( house.ToString()+"  "+house.Owner);
+        
+            //Collection collection =new Collection("Hello");
+            //List<string> strings = new List<string>();
+            //strings.Add("name2");
         }
         public void Example(){
 
